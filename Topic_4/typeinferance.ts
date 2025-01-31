@@ -30,3 +30,8 @@ data4=10;
 // if you want to restrict the value of any variable to only 5, 10, 15, 20, 25, 30 and also string
 let data5:5|10|15|20|25|30|"Deepak";
 data5=10;
+
+
+let dta=10;
+const val=10;
+val=30
